@@ -1,0 +1,12 @@
+{
+    "name": "com.cm.cme.runtime.win",
+    "version": "0.0.1",
+    "displayName": "CME runtime",
+    "description": "CME runtime for Windows",
+    "unity": "2019.4",
+    "author": {
+        "name": "Creative Mobile",
+        "email": "cme.support@cm.games",
+        "url": "https://cm.games/"
+    }
+}
